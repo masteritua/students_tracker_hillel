@@ -1,2 +1,4 @@
 .idea/
 venv/
+students/__pycache__/
+students/migrations/__pycache__/

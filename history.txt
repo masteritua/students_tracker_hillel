@@ -1,0 +1,112 @@
+    1  free -mfree -m
+    2  free
+    3  free -ah
+    4  free -a
+    5  free -h
+    6  python3
+    7  echo "HEllo world"
+    8  pwd
+    9  cd /
+   10  pwd
+   11  whoami
+   12  ls -a
+   13  ls -l
+   14  pwd
+   15  cd
+   16  pwd
+   17  mkdir hillel
+   18  cd hillel
+   19  ls
+   20  ls -a
+   21  ls -la
+   22  cd ..
+   23  ls -a
+   24  cd hillel
+   25  nano example.py
+   26  python3 example.py
+   27  sudo apt update
+   28  mrdir
+   29  cd
+   30  cd hillel
+   31  ls
+   32  echo "print('Hello world')"
+   33  echo "print('Hello world')" > example2.py
+   34  cat example.py
+   35  cat example2.py
+   36  df -h
+   37  sudo apt install htop
+   38  htop
+   39  ls
+   40  cd
+   41  mkdir hillel2
+   42  ls
+   43  ll
+   44  ls -a
+   45  ls -la
+   46  history
+   47  cat .bash_history
+   48  python3 -m venv env
+   49  sudo apt-get install python3-venv
+   50  python3 -m venv env
+   51  ls
+   52  ll
+   53  which python3
+   54  cd env
+   55  ls
+   56  .env/bin/activate
+   57  . env/bin/activate
+   58  cd /
+   59  cd
+   60  . env/bin/activate
+   61  which python3
+   62  pip insall flask
+   63  pip install flask
+   64  pip freeze
+   65  pip uninstall prg-resources
+   66  pip uninstall pkg-resources
+   67  pip freeze
+   68  import flask
+   69  pyhon3
+   70  python3
+   71  deactivate
+   72  git
+   73  sudo apt install git
+   74  sudo apt-get install gnome-tweak-tool
+   75  sudo apt-get update
+   76  sudo apt-get upgrade
+   77  git init
+   78  git status
+   79  git config --global user.name "Aleksey Shevchenko"
+   80  git config --global user.email masteritua@gmail.com
+   81  git commit -m "My branch new commit"
+   82  git status
+   83  git push https://github.com/masteritua/hillel
+   84  git push -u origin master  https://github.com/masteritua/hillel
+   85  git push -u origin master 
+   86  git push -u origin master  https://github.com/masteritua/hillel
+   87  git push -u origin master  https://github.com/masteritua/hillel.git
+   88  git push -u origin master https://github.com/masteritua/hillel.git
+   89  git remote add origin https://github.com/masteritua/hillel.git
+   90  git push -u origin master https://github.com/masteritua/hillel.git
+   91  git push -u origin master
+   92  pip install flask
+   93  python main.py
+   94  git clone -b lesson2 https://github.com/masteritua/hillel.git
+   95  pip install django
+   96  pip install django==2
+   97  pip install django==2.0
+   98  python --version
+   99  pip install django==2.0
+  100  django-admin startproject mysite .
+  101  pip freeze requirements.txt
+  102  pip freeze > requirements.txt
+  103  python manage.py runserver
+  104  django-admin startapp first_app
+  105  cd /home/python/PycharmProjects
+  106  mkdir students_tracker
+  107  cd students_tracker/
+  108  source env/bin/activate
+  109  git status
+  110  git add --all
+  111  git status
+  112  history > history.txt
